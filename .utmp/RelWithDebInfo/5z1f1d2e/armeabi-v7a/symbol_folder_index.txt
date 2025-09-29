@@ -1,0 +1,1 @@
+D:\Chess\Chess Assignment (5)\Chess Assignment\ChessTemplate\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\5z1f1d2e\obj\armeabi-v7a
